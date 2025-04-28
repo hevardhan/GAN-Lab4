@@ -1,6 +1,5 @@
 # Unveiling the Magic of GANs with RetinaMNIST: A Fun and Interactive Exploration ✨
 
-**Posted on April 9, 2025**  
 <hr style="margin-top:15px; margin-bottom:15px; border: 1px solid #000;" />
 
 ## Introduction: The World of GANs 🌍
